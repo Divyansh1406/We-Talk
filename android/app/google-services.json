@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "195593901209",
+    "project_id": "wetalk-8b392",
+    "storage_bucket": "wetalk-8b392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195593901209:android:87879e75fe3b9a604b5408",
+        "android_client_info": {
+          "package_name": "com.example.we_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195593901209-4ccd2la07sn65cr5dfj5rv8fqd5ghrlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.we_talk",
+            "certificate_hash": "cdfc371b58fe58923b2f1e58cb9e1249c9d1319e"
+          }
+        },
+        {
+          "client_id": "195593901209-jik6jpuj66mcdjackkq3aoebvrtbbr4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVLu67yhKwTVbnU6AHVdaKw_9RzWKnKU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195593901209-cg35htnpre1fl3sf4lp7ppnalebvkvms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "195593901209-ck92ru7lje3rid2pj9bhqimom5mg1u5e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weTalk.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
