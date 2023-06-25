@@ -229,7 +229,7 @@ class APIs {
       final body = {
         "to": chatUser.pushToken.toString(),
         "notification": {
-          "title": chatUser.name,
+          "title": me.name,
           "body": msg,
           "android_channel_id": "chats"
         },
